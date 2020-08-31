@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**someshkoli/someshkoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fancy seeing you here! <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+I am Somesh Koli, currently working as a GSoC student developer at [Postman](github.co/postmanlabs):waning_crescent_moon:.Currently. I'm learning about distributed systems and exploring more about it :seeding:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to talk about Nodejs, Linux, Blockchain, Penetration Testing or invite me for a Hackathon :hammer:? Ping me here:
+
+
+
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/facebook.svg" width="30px">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/linkedin.svg" width="30px">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/telegram.svg" width="30px">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/twitter.svg" width="30px">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/gmail.svg" width="30px">
+
+And visit again to say hi to my cat :cat:
