@@ -7,10 +7,10 @@ Found something of your intrest :mag_right: or want a team for a Hackathon :hamm
 
 
 <div>
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/facebook.svg" width="30px">
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/linkedin.svg" width="30px">
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/telegram.svg" width="30px">
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/twitter.svg" width="30px">
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/gmail.svg" width="30px">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/facebook.svg" width="30px" href="https://www.facebook.com/Somesh.m.koli">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/linkedin.svg" width="30px" href="linkedin.com/in/somesh-koli">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/telegram.svg" width="30px" href="t.me/wolfxflow">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/twitter.svg" width="30px" href="https://twitter.com/kolisomesh1">
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/gmail.svg" width="30px" href="mailto: Will update soon">
 </div>
 And visit again to say hi to my cat :cat:
