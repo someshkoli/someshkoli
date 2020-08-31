@@ -10,10 +10,10 @@ Found something of your intrest :mag_right: or want a team for a Hackathon :hamm
 <a href="https://www.facebook.com/Somesh.m.koli">
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/facebook.svg" width="30px" >
 </a>
-<a href="linkedin.com/in/somesh-koli">
+<a href="https://www.linkedin.com/in/somesh-koli">
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/linkedin.svg" width="30px" >
 </a>
-<a href="t.me/wolfxflow">
+<a href="https://www.t.me/wolfxflow">
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/telegram.svg" width="30px" >
 </a>
 <a href="https://twitter.com/kolisomesh1">
