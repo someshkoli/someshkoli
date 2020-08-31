@@ -1,9 +1,9 @@
 
 ## Fancy seeing you here! <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/wave.gif" width="30px">
 
-I am Somesh Koli, working as a GSoC student developer at [Postman](github.co/postmanlabs). Currently, I'm learning about distributed systems and exploring more about it :seedling: .
+I am Somesh Koli, working as a GSoC student developer at [Postman](github.co/postmanlabs). Currently, I'm learning about distributed systems and exploring more about it :seedling: . Intrested in stuff related to Nodejs, Linux, Blockchain and Penetration testing.
 
-Want to talk about Nodejs, Linux, Blockchain, Penetration Testing or invite me for a Hackathon :hammer:? Ping me here:
+Found something of your intrest :mag_right: or want a team for a Hackathon :hammer:? Ping me here:
 
 
 <div>
