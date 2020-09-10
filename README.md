@@ -5,6 +5,7 @@ I am Somesh Koli, working as a GSoC student developer at [Postman](github.co/pos
 
 Found something of your intrest :mag_right: or want a team for a Hackathon :hammer:? Ping me here:
 
+[![Source's github stats](https://github-readme-stats.vercel.app/api?username=someshkoli&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someshkoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <div>
 <a href="https://www.facebook.com/Somesh.m.koli">
