@@ -22,7 +22,7 @@ Found something of your interest :mag_right: or want a team for a Hackathon :ham
 <a href="mailto: kolisomesh27@gmail.com">
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/gmail.svg" width="30px" >
 </a>
-<a href="someshkoli.me/resume.pdf">
+<a href="https://someshkoli.me/resume.pdf">
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/user.svg" width="30px" >
 </a>
 </div>
