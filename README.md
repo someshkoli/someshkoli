@@ -23,7 +23,7 @@ Found something of your interest :mag_right: or want a team for a Hackathon :ham
 <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/gmail.svg" width="30px" >
 </a>
 <a href="someshkoli.me/resume.pdf">
-<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/blank-file.svg" width="30px" >
+<img src="https://github.com/someshkoli/someshkoli/blob/master/resources/user.svg" width="30px" >
 </a>
 </div>
 And visit again to say hi to my cat :cat:
