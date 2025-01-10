@@ -1,7 +1,7 @@
 
 ## Fancy seeing you here! <img src="https://github.com/someshkoli/someshkoli/blob/master/resources/wave.gif" width="30px">
 
-I am Somesh Koli, Software Engineer at [Headout](https://headout.com/). Currently, Building Headout and learning more about distributed systems :seedling: . Interested in anything related to Go, Nodejs, Linux, Blockchain, Cloud Native and Distributed Systems.
+I am Somesh Koli, Engineer at [Headout](https://headout.com/). Currently, Building Headout and learning more about distributed systems :seedling: . Interested in anything related to Go, Nodejs, Linux, Blockchain, Cloud Native and Distributed Systems.
 
 Found something of your interest :mag_right: or want a team for a Hackathon :hammer:? Ping me here:
 
